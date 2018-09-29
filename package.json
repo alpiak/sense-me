@@ -14,10 +14,11 @@
   "author": "",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/kai30/sense-me/issues"
+    "url": "https://github.com/kaiplanet/sense-me/issues"
   },
-  "homepage": "https://github.com/kai30/sense-me#readme",
+  "homepage": "https://github.com/kaiplanet/sense-me#readme",
   "dependencies": {
+    "@tensorflow/tfjs": "^0.13.0",
     "clubber": "^1.7.1"
   },
   "devDependencies": {

@@ -11,6 +11,7 @@ const webpack = require('webpack');
 const rootDir = path.resolve(__dirname, '..');
 
 module.exports = {
+    mode: 'development',
     devServer: {
         contentBase: path.resolve(rootDir, 'build')
     },
